@@ -1,0 +1,424 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\39e1a5b7cbfa7c30b96e6a118a012de1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Android Studio\caches\transforms-2\files-2.1\e5b7aa45c4cd52ce156a9aedb371ec66\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\301e74ec953a81fc4ec23b13de3d80eb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\2e534b6c28945e45605c50402b4e9c79\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c2b47cecd32fa30b827df75fbe1b1831\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4cab341ade170d71c1deb273ac5807e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4255dec80066907f618b36b710c09388\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\707142c6f8b569088f81ff692687f59c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\e4a02a5bda0d61e52707546e13e38fbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\238d30487197e4c65e5cfb5dd1f00970\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\8620e4e2406201889cdf0b7ef4e10048\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\dee920caf598670ed9420a7640713646\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4116964b6a966bc523e418309546d21a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\61bc064621443d4a756ea5a590b599a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3734548d1a2bdcd106261747866781a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4700218bafce25da191ac6952d1edbfc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\adcbae7818b49d5471ef0d79ac5ab559\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4a25ca418e6b79535315e2f3d577ee93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\fe3ddbbe09c24bbe8749a277bb005f2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\227f63062958bfc2b321b85f9c0defc8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c52a7e38d152ed06492c6624804feee2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3bb392f5cd94c517c2cacd35d9a3e41b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4fc7b5f1b8321500974728b24a1b821\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\cecc032238058ef640cd82180e7c2b01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7e076b357b471fe3889f2125ed80e0c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c6d018bbcf247ff1c27deda02eb35261\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7eb49852f844e7fa5d3d02c07b079df2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\2deeb7d07bbaf1c96eb5c123d8168331\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\21a017fab00061a78b6c007e2030883a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\037e03a6401d601e95711a4e90c1ee9d\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:4:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Android Studio\caches\transforms-2\files-2.1\e5b7aa45c4cd52ce156a9aedb371ec66\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Android Studio\caches\transforms-2\files-2.1\e5b7aa45c4cd52ce156a9aedb371ec66\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\301e74ec953a81fc4ec23b13de3d80eb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\301e74ec953a81fc4ec23b13de3d80eb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\2e534b6c28945e45605c50402b4e9c79\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\2e534b6c28945e45605c50402b4e9c79\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\227f63062958bfc2b321b85f9c0defc8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\227f63062958bfc2b321b85f9c0defc8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:8:9-54
+	android:installLocation
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:11:9-49
+	android:icon
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.image.MainActivity
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:22:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml:25:22-78
+uses-sdk
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\39e1a5b7cbfa7c30b96e6a118a012de1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\39e1a5b7cbfa7c30b96e6a118a012de1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Android Studio\caches\transforms-2\files-2.1\e5b7aa45c4cd52ce156a9aedb371ec66\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Android Studio\caches\transforms-2\files-2.1\e5b7aa45c4cd52ce156a9aedb371ec66\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\301e74ec953a81fc4ec23b13de3d80eb\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\301e74ec953a81fc4ec23b13de3d80eb\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\2e534b6c28945e45605c50402b4e9c79\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\2e534b6c28945e45605c50402b4e9c79\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:17:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c2b47cecd32fa30b827df75fbe1b1831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c2b47cecd32fa30b827df75fbe1b1831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4cab341ade170d71c1deb273ac5807e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4cab341ade170d71c1deb273ac5807e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4255dec80066907f618b36b710c09388\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4255dec80066907f618b36b710c09388\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\707142c6f8b569088f81ff692687f59c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\707142c6f8b569088f81ff692687f59c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\e4a02a5bda0d61e52707546e13e38fbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\e4a02a5bda0d61e52707546e13e38fbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\238d30487197e4c65e5cfb5dd1f00970\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\238d30487197e4c65e5cfb5dd1f00970\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\8620e4e2406201889cdf0b7ef4e10048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\8620e4e2406201889cdf0b7ef4e10048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\dee920caf598670ed9420a7640713646\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\dee920caf598670ed9420a7640713646\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4116964b6a966bc523e418309546d21a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4116964b6a966bc523e418309546d21a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\61bc064621443d4a756ea5a590b599a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\61bc064621443d4a756ea5a590b599a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3734548d1a2bdcd106261747866781a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3734548d1a2bdcd106261747866781a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4700218bafce25da191ac6952d1edbfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4700218bafce25da191ac6952d1edbfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\adcbae7818b49d5471ef0d79ac5ab559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\adcbae7818b49d5471ef0d79ac5ab559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4a25ca418e6b79535315e2f3d577ee93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\4a25ca418e6b79535315e2f3d577ee93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\fe3ddbbe09c24bbe8749a277bb005f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\fe3ddbbe09c24bbe8749a277bb005f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\631e485e76c74b35be4f76f8315a6528\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\227f63062958bfc2b321b85f9c0defc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\227f63062958bfc2b321b85f9c0defc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c52a7e38d152ed06492c6624804feee2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c52a7e38d152ed06492c6624804feee2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3bb392f5cd94c517c2cacd35d9a3e41b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\3bb392f5cd94c517c2cacd35d9a3e41b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4fc7b5f1b8321500974728b24a1b821\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\d4fc7b5f1b8321500974728b24a1b821\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\cecc032238058ef640cd82180e7c2b01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\cecc032238058ef640cd82180e7c2b01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7e076b357b471fe3889f2125ed80e0c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7e076b357b471fe3889f2125ed80e0c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c6d018bbcf247ff1c27deda02eb35261\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\c6d018bbcf247ff1c27deda02eb35261\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7eb49852f844e7fa5d3d02c07b079df2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\7eb49852f844e7fa5d3d02c07b079df2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\2deeb7d07bbaf1c96eb5c123d8168331\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\2deeb7d07bbaf1c96eb5c123d8168331\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\21a017fab00061a78b6c007e2030883a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Android Studio\caches\transforms-2\files-2.1\21a017fab00061a78b6c007e2030883a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\037e03a6401d601e95711a4e90c1ee9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Android Studio\caches\transforms-2\files-2.1\037e03a6401d601e95711a4e90c1ee9d\AndroidManifest.xml:20:5-44
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		ADDED from D:\IMAGE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IMAGE\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b96be206c4554edcd4215fb150809906\AndroidManifest.xml:21:52-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\8fe8b0a6212a76595837c23896bd321c\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\e204fe0e948894277dabd664889ebed0\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\766b4c03b8af5e8261e92971d8a76a2a\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\b0e6c4df5e43448af451611d239e6afd\AndroidManifest.xml:25:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\72403739f85b0057fa6f2257cc8c381b\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\700b35666d6c6e1397a00f7ef4c0a44d\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:17-71
+permission#com.example.image.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:26:22-76
+uses-permission#com.example.image.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.example.image
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:34:27-58
+category#com.example.image
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\75dac14c4591b5fa6464f1b749fa82fd\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\3d00aae8e7fc6d97f1281051bd7faa42\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Android Studio\caches\transforms-2\files-2.1\a92e1bb3a0182d215794a88a0ca8d8f4\AndroidManifest.xml:20:20-65
